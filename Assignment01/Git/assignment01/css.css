@@ -1,0 +1,61 @@
+/*
+Author: Deirdre Connolly;
+Individual Assessment – Git
+*/
+
+html	{
+	margin: auto;
+	font-family: Verdana, Cambria, Calibri;
+	background-color: #ffffff;
+}
+
+body	{
+	line-height: 1.5;
+	font-size: 1em;
+}
+
+header	{
+	text-align: center;
+}
+
+main	{
+	
+}
+
+footer	{
+	border-top: 2px solid #008ae6;
+	border-bottom: 2px solid #008ae6;
+	font-size:90%;
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 5px;
+	background: #ccebff;
+	clear: both;
+	line-height: 2;
+}
+
+
+h1	{
+	border-top: 2px solid #008ae6;
+	border-bottom: 2px solid #008ae6;
+	padding: 10px;
+	padding-right: 200px;
+	background: #ccebff;
+	text-align: center;
+	letter-spacing: 3px;
+	font-size: 4em;
+	text-shadow: 3px 2px #cccccc;
+	font-family: "Felix Titling", Broadway, Calibri;
+}
+
+h3	{
+	border-top: 2px solid #008ae6;
+	border-bottom: 2px solid #008ae6;
+	padding: 2px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-size: 2em;
+	text-shadow: 2px 1px #cccccc;
+	background: #ccebff;
+	font-family: "Felix Titling", "Copperplate Gothic Light", Calibri;
+}
